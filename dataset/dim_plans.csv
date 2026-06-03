@@ -1,0 +1,5 @@
+plan_id,plan_name,price_inr,duration_days,content_access,max_screens
+P001,Mobile,149,30,SD Only,1
+P002,Basic,299,30,HD,1
+P003,Standard,499,30,Full HD,2
+P004,Premium,799,30,4K + HDR,4
